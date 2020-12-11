@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/свой текцщий репозиторий" 
+    "url": "git+https://github.com/BelikSergey/progect11" 
   },
   "keywords": [],
   "author": "Belik Sergey <datura288@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/имя_пользователя.github.io/имя_репозитория",
+  "homepage": "https://github.com/BelikSergey/progect11",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
